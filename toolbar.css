@@ -4,7 +4,22 @@
 .toolbar-container-logo {
 	font-family: bariolregular;
 	font-size: 150%;
+	float: left;
 }
 .toolbar-container-logo-sub {
+	color: #1abc9c;
+}
+.toolbar-container-home {
+	float: left;
+	margin-top: 3px;
+	margin-left: 1%;
+ 	-o-transition:color .1s ease-out,.1s ease-in;
+	-ms-transition:color .1s ease-out,.1s ease-in;
+ 	-moz-transition:color .1s ease-out,.1s ease-in;
+ 	-webkit-transition:color .1s ease-out,.1s ease-in;
+ 	transition:color .1s ease-out,.2s ease-in;
+	letter-spacing: 1px;
+}
+.toolbar-container-home:hover {
 	color: #1abc9c;
 }
