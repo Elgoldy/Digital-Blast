@@ -1,4 +1,15 @@
 * {
 	padding: 0px;
 	margin: 0px;
+}  
+@font-face {
+	src: url(Bariol.ttf);
+	font-family: bariolregular;
+}
+@font-face {
+	src: url(Bariol_Bold.otf);
+	font-family: bariolbold;
+}
+html {
+	font-family: Arial, Helvetica, sans-serif;
 }
