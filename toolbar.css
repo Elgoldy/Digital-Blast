@@ -1,9 +1,10 @@
 .toolbar-container {
-	/*to be filled*/
+	padding: 1%;
 }
 .toolbar-container-logo {
 	font-family: bariolregular;
+	font-size: 150%;
 }
 .toolbar-container-logo-sub {
-	/*to be filled*/
+	color: #1abc9c;
 }
