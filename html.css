@@ -14,3 +14,7 @@ html {
 	color: #2c3e50;
 	font-family: 'Open Sans', sans-serif;
 }
+@font-face {
+	src: url(Bariol_Thin.otf);
+	font-family: bariolthin;
+}
