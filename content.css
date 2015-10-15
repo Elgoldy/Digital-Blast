@@ -9,3 +9,6 @@
 .content-container-paragraph {
 	margin-top: 2%;
 }
+.clear-left {
+  clear: left;
+}
