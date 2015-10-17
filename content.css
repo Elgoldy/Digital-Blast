@@ -1,0 +1,14 @@
+.content-container-heading-blast {
+	color: #1abc9c;
+}
+.content-container-heading {
+	margin-top: 10%;
+	font-family: bariolthin;
+	font-size: 160%;
+}
+.content-container-paragraph {
+	margin-top: 2%;
+}
+.clear-left {
+  clear: left;
+}
